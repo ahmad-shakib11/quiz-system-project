@@ -1,7 +1,5 @@
 ﻿# MCQ Quiz System
 
-# MCQ Quiz System
-
 ![Java](https://img.shields.io/badge/Java-17-blue)
 ![Gradle](https://img.shields.io/badge/Gradle-7.5-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
