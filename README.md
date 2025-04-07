@@ -21,12 +21,6 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
 - 🏆 Leaderboard for competitive quizzes
 
 ## Technologies Used
-- Java JDK 21
-- **Build Tool**: Gradle
-
-## Getting Started
-
-## Technologies Used
 
 - **Java 21** - Primary programming language
 - **Gradle** - Build tool and dependency management
