@@ -44,9 +44,9 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
 
 ### Admin Interface Demo
 You can view the recorded video of the admin interface demo by clicking the link below:
-[Admin Interface Demo](https://drive.google.com/file/d/1YOjPW7DGmgvWBEKwQJt64XlXdH64lJoF/view?usp=sharing)
+[Admin Interface Demo](https://drive.google.com/file/d/1PtHFyB69j_07AUcuOkQCD5HSiMgMc61F/view?usp=sharing)
 
 ### Student Interface Demo
 You can view the recorded video of the student interface demo by clicking the link below:
-[Student Interface Demo](https://drive.google.com/file/d/1sg7-XpHY7j8YgJByXtA4jwce5lTOMfwB/view?usp=sharing)
+[Student Interface Demo](https://drive.google.com/file/d/1gsmmo-LRtYJArlKyusyaook17vX2GW5s/view?usp=sharing)
 
