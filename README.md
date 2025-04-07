@@ -39,3 +39,14 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
    ```bash
    git clone https://github.com/ahmad-shakib11/quiz-system-project.git
    cd quiz-system-project
+
+   # Project Demo
+
+### Admin Interface Demo
+You can view the recorded video of the admin interface demo by clicking the link below:
+[Admin Interface Demo](https://drive.google.com/file/d/1YOjPW7DGmgvWBEKwQJt64XlXdH64lJoF/view?usp=drive_link)
+
+### Student Interface Demo
+You can view the recorded video of the student interface demo by clicking the link below:
+[Student Interface Demo](https://drive.google.com/file/d/1sg7-XpHY7j8YgJByXtA4jwce5lTOMfwB/view?usp=drive_link)
+
