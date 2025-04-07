@@ -21,18 +21,22 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
 - 🏆 Leaderboard for competitive quizzes
 
 ## Technologies Used
-- **Backend**: Java 21, Spring Boot
-- **Frontend**: Thymeleaf (or React if applicable)
-- **Database**: H2 (Development), MySQL (Production)
+- Java JDK 21
 - **Build Tool**: Gradle
-- **Security**: Spring Security
 
 ## Getting Started
 
-### Prerequisites
-- Java 17 JDK
-- Gradle 7.5+
-- MySQL 8.0 (for production)
+## Technologies Used
+
+- **Java 21** - Primary programming language
+- **Gradle** - Build tool and dependency management
+
+### Development Tools
+- **IntelliJ IDEA Community Edition** - Primary IDE
+
+## Prerequisites
+- Java JDK 21
+- Gradle 7.6+
 
 ### Installation
 1. Clone the repository:
