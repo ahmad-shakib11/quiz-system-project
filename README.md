@@ -1,6 +1,6 @@
 ﻿# MCQ Quiz System
 
-![Java](https://img.shields.io/badge/Java-17-blue)
+![Java](https://img.shields.io/badge/Java-21-blue)
 ![Gradle](https://img.shields.io/badge/Gradle-7.5-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
@@ -21,7 +21,7 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
 - 🏆 Leaderboard for competitive quizzes
 
 ## Technologies Used
-- **Backend**: Java 17, Spring Boot
+- **Backend**: Java 21, Spring Boot
 - **Frontend**: Thymeleaf (or React if applicable)
 - **Database**: H2 (Development), MySQL (Production)
 - **Build Tool**: Gradle
