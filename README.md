@@ -6,37 +6,53 @@
 
 A web-based multiple choice question (MCQ) quiz system with admin and student interfaces.
 
+- **Admin**: Can create, edit, and delete quiz questions. The admin can also view quiz results and manage users.
+- **Student**: Can log in, take quizzes, and view their scores.
+
+The system stores user data and quiz data in JSON files, ensuring ease of data management and persistence.
+
 ## Features
 
 ### Admin Features
-- 📝 Create and manage quizzes
-- ❓ Add/Edit/Delete questions
-- 📊 View student performance analytics
-- 🔐 User management (activate/deactivate accounts)
+- Create new MCQ questions with options and correct answers.
+- Edit or delete existing questions.
+- View a list of all quizzes and users.
+- Manage student results.
 
 ### Student Features
-- ✍️ Take timed quizzes
-- 📈 View results and historical performance
-- 🔍 Search available quizzes
-- 🏆 Leaderboard for competitive quizzes
+- Log in to the system with credentials.
+- Take quizzes and select answers.
+- View results after completing the quiz.
 
-## Technologies Used
+## Technology Stack
+- **Programming Language**: Java
+- **IDE**: IntelliJ IDEA
+- **Data Storage**: JSON files for user and quiz data.
 
-- **Java 21** - Primary programming language
-- **Gradle** - Build tool and dependency management
+## Getting Started
 
-### Development Tools
-- **IntelliJ IDEA Community Edition** - Primary IDE
-
-## Prerequisites
-- Java JDK 21
-- Gradle 7.5
-
+### Prerequisites
+- Java 21
+- IntelliJ IDEA
+- 
 ### Installation
+
 1. Clone the repository:
    ```bash
    git clone https://github.com/ahmad-shakib11/quiz-system-project.git
    cd quiz-system-project
+
+2. Open the project in IntelliJ IDEA (or your preferred Java IDE).
+
+3. Compile and run the `Main.java` file to start the application.
+
+### How to Use
+
+1. **Admin Login**: Use the default admin credentials to access the admin panel and manage quizzes.
+    - Username: `admin`
+    - Password: `1234`
+
+2. **Student Login**: Students can log in with their credentials, take quizzes, and check results after completion.
 
 ### Admin Interface Demo
 You can view the recorded video of the admin interface demo by clicking the link below:
