@@ -1,7 +1,7 @@
 ﻿# MCQ Quiz System
 
 ![Java](https://img.shields.io/badge/Java-21-blue)
-![Gradle](https://img.shields.io/badge/Gradle-7.5-green)
+![Gradle](https://img.shields.io/badge/Gradle-8.5-green)
 ![License](https://img.shields.io/badge/License-MIT-orange)
 
 A web-based multiple choice question (MCQ) quiz system with admin and student interfaces.
@@ -35,9 +35,10 @@ The system stores user data and quiz data in JSON files, ensuring ease of data m
 ## Getting Started
 
 ### Prerequisites
-- Java 21
+- Java JDK 21
+- Gradle 8.5
 - IntelliJ IDEA
-- 
+  
 ### Installation
 
 1. Clone the repository:
