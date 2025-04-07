@@ -30,7 +30,7 @@ A web-based multiple choice question (MCQ) quiz system with admin and student in
 
 ## Prerequisites
 - Java JDK 21
-- Gradle 7.6+
+- Gradle 7.5
 
 ### Installation
 1. Clone the repository:
