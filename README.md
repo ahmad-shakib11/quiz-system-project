@@ -37,7 +37,7 @@ The system stores user data and quiz data in JSON files, ensuring ease of data m
 ### Prerequisites
 - Java JDK 21
 - Gradle 8.5
-- IntelliJ IDEA
+- IntelliJ IDEA Community Edition** - Primary IDE
   
 ### Installation
 
