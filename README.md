@@ -14,17 +14,20 @@ The system stores user data and quiz data in JSON files, ensuring ease of data m
 ## Features
 
 ### Admin Features
+
 - Create new MCQ questions with options and correct answers.
 - Edit or delete existing questions.
 - View a list of all quizzes and users.
 - Manage student results.
 
 ### Student Features
+
 - Log in to the system with credentials.
 - Take quizzes and select answers.
 - View results after completing the quiz.
 
 ## Technology Stack
+
 - **Programming Language**: Java
 - **IDE**: IntelliJ IDEA
 - **Data Storage**: JSON files for user and quiz data.
